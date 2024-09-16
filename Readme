@@ -1,4 +1,4 @@
-<h>Using Elastic to setup a SIEM Homelab <h/>
+<h1>Using Elastic to setup a SIEM Homelab</h1>
 
 I have used Kali within VirtualBox to simulate as an Agent and Elastic as a SIEM.
 
